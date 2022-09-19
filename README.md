@@ -18,6 +18,7 @@ A walkthrough video that demonstrates the functionality of the README generator.
 <img src="./assets/images/img_1.png">
 
 
+
 <img src="./assets/images/img_2.png">
 
 
@@ -70,7 +71,6 @@ additional questions
 WHEN I click on the links in the Table of Contents
 
 THEN I am taken to the corresponding section of the README
-
 
 
 
