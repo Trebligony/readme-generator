@@ -18,6 +18,8 @@ A walkthrough video that demonstrates the functionality of the README generator.
 <img src="./assets/images/img_1.png">
 
 
+<img src="./assets/images/img_2.png">
+
 
 
 ## User Story
