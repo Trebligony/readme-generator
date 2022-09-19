@@ -15,10 +15,9 @@ A walkthrough video that demonstrates the functionality of the README generator.
 
 ## Screenshots
 
+<img src="./assets/images/img_1.png">
 
-## ReadMe File Generated
 
-<img src="./CustonReadMe.md">
 
 
 ## User Story
